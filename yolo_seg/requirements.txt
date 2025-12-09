@@ -5,3 +5,4 @@ torchvision
 torchaudio
 loguru
 opencv-python
+ultralytics==8.3.214
