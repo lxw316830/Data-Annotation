@@ -1,0 +1,7 @@
+tqdm
+modelscope==1.14.0
+torch
+torchvision
+torchaudio
+loguru
+opencv-python
