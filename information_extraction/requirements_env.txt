@@ -1,0 +1,10 @@
+xinference
+addict
+modelscope
+datasets==2.21.0
+loguru
+paddleocr
+paddlenlp==2.6.1
+simplejson
+sortedcontainers
+shortuuid
