@@ -38,8 +38,8 @@ for image_file in tqdm(os.listdir(image_dir_path)):
             continue
         logger.info(f"图片矫正成功")
         # logger.info("版面还原·······")
-        # md = layout_md(correction_image_array)
-        md = ocr_v5(correction_image_array)
+        md = layout_md(correction_image_array)
+        # md = ocr_v5(correction_image_array)
         logger.info("ocr识别·······")
         logger.info("ocr识别成功")
         es_json = '[{"姓名": "刘禅", "性别": "男"}, {"姓名": "刘备", "性别": "男"}]'

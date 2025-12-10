@@ -1,0 +1,71 @@
+[
+    {
+        "id": 1,
+        "annotations": [
+            {
+                "id": 1,
+                "result": [
+                    {
+                        "value": {
+                            "start": 0,
+                            "end": 12,
+                            "text": "GF-2014-0171",
+                            "labels": [
+                                "合同编号"
+                            ]
+                        },
+                        "type": "labels",
+                        "to_name": "text",
+                        "from_name": "label",
+                        "id": "UzSHwvm97q"
+                    },
+                    {
+                        "value": {
+                            "start": 0,
+                            "end": 12,
+                            "text": "GF-2014-0171",
+                            "labels": [
+                                "合同编号"
+                            ]
+                        },
+                        "type": "labels",
+                        "to_name": "text",
+                        "from_name": "label",
+                        "id": "YjbzFQtCVR"
+                    },
+                    {
+                        "value": {
+                            "start": 75,
+                            "end": 89,
+                            "text": "邯郸市金铂房地产开发有限公司",
+                            "labels": [
+                                "出卖人"
+                            ]
+                        },
+                        "type": "labels",
+                        "to_name": "text",
+                        "from_name": "label",
+                        "id": "aQ5iu5rusd"
+                    },
+                    {
+                        "value": {
+                            "start": 97,
+                            "end": 99,
+                            "text": "张凯",
+                            "labels": [
+                                "买受人"
+                            ]
+                        },
+                        "type": "labels",
+                        "to_name": "text",
+                        "from_name": "label",
+                        "id": "7VS9f7TdLT"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "GF-2014-0171，。合同编号：，。0020191219067，。商品房买卖合同（预售），。鑫圳南商易联紧类合国专网，。询间人鉴，。出卖人：，。邯郸市金铂房地产开发有限公司，。买受人：，。张凯，。深商品育买线，。中华人民共和国住房和城乡建设部，。制定，。中华人民共和国国家工商行政管理总局，。2"
+        }
+    }
+]
